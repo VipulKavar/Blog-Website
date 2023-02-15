@@ -6,12 +6,3 @@ Home page contains Blogs with profile picture(logged user's profile pic), title 
 Profile picture and username are link which are transfer to only blogs which are created by specified user.
 Blogs are updated and deleted only by author of that blog.
 Profile is only changed by logging user.
-
-
-# Super User
-<super_user_id = admin>
-<super_user_password = admin@admin123>
-
-# User-1
-<id = abc>
-<password = abc@abc123>
